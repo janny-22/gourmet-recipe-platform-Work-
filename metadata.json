@@ -1,0 +1,6 @@
+{
+  "name": "Culinary Blog - Gourmet Recipes & Instant Alerts",
+  "description": "Professional culinary blog and recipe platform with modern warm beige aesthetic, comprehensive recipe management, and automated real-time push notifications.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
